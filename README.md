@@ -13,7 +13,7 @@ Users can customize the QR code's size, color, and error correction level to sui
 The application provides a text input field where users can enter the data they want to encode into the QR code.
 
 ### QR Code Preview:
-As users input text, a live preview of the generated QR code is displayed in real-time, allowing them to see how the QR code will look before downloading or using it.
+As users input text, a live preview of the generated QR code is displayed in real time, allowing them to see how the QR code will look before downloading or using it.
 
 ## Usage:
 
@@ -36,12 +36,12 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 ## Author:
 
-### -- Atharva Gosavi -- 
-[Mail](@atharvagosavi2729@gmail.com)                        [Github](https://github.com/AtharvaG07)                      [Instagram](https://www.instagram.com/atharva_gosavi_2729/)                      [Codepen]([Codepen](https://codepen.io/Atharva-Gosavi/pen/rNPWyYV))
+### --__Atharva Gosavi__-- 
+[Mail](@atharvagosavi2729@gmail.com)                        [Github](https://github.com/AtharvaG07)                      [Instagram](https://www.instagram.com/atharva_gosavi_2729/)                      [Codepen](https://codepen.io/Atharva-Gosavi/pen/rNPWyYV)
 
 ## Acknowledgements:
 
-Special thanks to [ChatGPT](https://chat.openai.com/?model=text-davinci-002-render)          [Codepen](https://codepen.io/Atharva-Gosavi/pen/rNPWyYV)
+Special thanks to [ChatGPT](https://chat.openai.com/?model=text-davinci-002-render)    [Codepen](https://codepen.io/Atharva-Gosavi/pen/rNPWyYV)
 
 ## Feedback:
 
@@ -51,6 +51,6 @@ If you have any feedback or questions regarding this project, please don't hesit
 
 The source code for this project can be found on [GitHub](https://github.com/AtharvaG07/QR-Code-Generator.git)
 
-## Thank you for using our QR code generator! We hope you find it useful for your needs. If you encounter any issues or have suggestions for improvements, please let us know.
+## Thank you for using my QR code generator! We hope you find it useful for your needs. If you encounter any issues or have suggestions for improvements, please let me know.
 
 # _Happy coding!_
